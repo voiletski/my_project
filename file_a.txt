@@ -1,2 +1,3 @@
 text in file a
 some more text
+A change made locally
