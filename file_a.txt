@@ -1,2 +1,3 @@
 text in file a
 some more text
+a change made in the remote
